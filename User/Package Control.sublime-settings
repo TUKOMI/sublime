@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorcoder",
+		"CSS3",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Cobalt2"
+	]
+}

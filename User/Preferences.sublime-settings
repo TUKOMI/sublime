@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Colorcoder/cobalt2 (Colorcoded).tmTheme",
+	"font_size": 10.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"original_color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+	"theme": "Cobalt2.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
