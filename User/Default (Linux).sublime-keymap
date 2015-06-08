@@ -7,10 +7,4 @@
     ]
   	},
     { "keys": ["alt+ctrl+p"], "command": "autoprefixer" },
-     {
-    "keys": [
-      "ctrl+."
-    ],
-    "command": "mark_comment"
-  },
 ]
